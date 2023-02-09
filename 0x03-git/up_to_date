@@ -1,0 +1,8 @@
+## Displays the output as one commit per line, showing our current commit state 
+git log --oneline 
+
+## Used to download contents from the remote repository 
+git fetch 
+
+## fetches and merges the remote origin/master repo to the local one for updates   
+git pull origin master 
