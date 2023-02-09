@@ -5,4 +5,4 @@ git log --oneline
 git fetch 
 
 ## fetches and merges the remote origin/master repo to the local one for updates   
-git pull origin master 
+git pull origin main 
