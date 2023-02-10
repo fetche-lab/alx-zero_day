@@ -1,5 +1,0 @@
-git log --oneline 
-
-git fetch 
-
-git pull origin master 
